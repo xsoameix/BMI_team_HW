@@ -1,2 +1,2 @@
 主要的分支叫master，當確定程式碼OK後再合併到master，謝謝！
-你可以複製一份(git pull)master到你的分支，在自己的分支上寫程式，寫好後再合併到master。
+你可以複製一份(git clone後再git pull)master或者是最新的其他分支到你的分支，在自己的分支上寫程式，寫好後再合併到master。
